@@ -17,7 +17,7 @@
 
     - Big-O : O(n²)
 
-#### 3.Time Complexity
+### 3.Time Complexity
 
 Best case: Aradığımız sayının dizinin en başında olması.
 
